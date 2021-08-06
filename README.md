@@ -1,4 +1,4 @@
-![Gatsby Logo](https://github.com/vercel/vercel/blob/master/packages/frameworks/logos/gatsby.svg)
+![Gatsby Logo](https://raw.githubusercontent.com/vercel/vercel/main/packages/frameworks/logos/gatsby.svg)
 
 # Gatsby Example
 
